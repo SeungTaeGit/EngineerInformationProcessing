@@ -268,7 +268,7 @@
 
 ## 12. 소프트웨어 패키징
 <details>
-<summary>12. 소프트웨어 패키징</summary>
+<summary>Chapter 1 - 소프트웨어 패키징</summary>
 
 
 </details>
