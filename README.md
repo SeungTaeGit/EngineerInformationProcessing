@@ -268,12 +268,12 @@
 
 ### 12. 소프트웨어 패키징
 <details>
-<summary>Chapter 1 - 제품 소프트웨어 패키징 하기</summary>
+<summary>Chapter 1 - 제품 소프트웨어 패키징 하기(★★)</summary>
 
 
 </details>
 <details>
-<summary>Chapter 2 - 제품 소프트웨어 메뉴얼 작성 및 버전 등록</summary>
+<summary>Chapter 2 - 제품 소프트웨어 메뉴얼 작성 및 버전 등록(★★)</summary>
 
 
 </details>
